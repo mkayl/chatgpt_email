@@ -1,0 +1,10 @@
+{
+    "name": "ChatGPT + Gmail",
+    "version": "1.0.0",
+    "description": "This is an extension to connect Gmail and GTP",
+    "manifest_version": 3,
+    "author": "Michael Wyss",
+    "action": {
+        "default_popup": "index.html"
+    }
+}
